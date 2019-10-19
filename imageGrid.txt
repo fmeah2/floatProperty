@@ -1,0 +1,17 @@
+Float Property
+    - CSS Property which specifies that an element should be placed along the left or right side of its container, allowing text and inline elements to wrap around it.
+    - the element is removed from the normal flow of the web page, though still remaining a part of the flow (in contrast to absolute positioning)
+    - float property in CSS is used for positioning and layout on web pages
+
+Property: values:
+   float: left  
+     - the element must float on the left side of its containing block
+   float: right  
+    - the element must float on the right side of its contaning block
+   float: none
+    - the element must not float. this is the default/initial values
+
+Global values 
+   float: inherit
+   float: initial
+   
